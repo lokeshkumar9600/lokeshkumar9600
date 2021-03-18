@@ -1,9 +1,9 @@
 <h3 title="hehehe"> Hey 👋, I'm Lokesh Kumar !</h3>
 
-<a href="">
+<a href="https://www.linkedin.com/in/lokesh-kumar-7668001b7/">
   <img align="left" alt="Lokesh kumar's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="">
+<a href="https://www.instagram.com/cyberking9560/">
   <img align="left" alt="Lokesh kumar's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="">
