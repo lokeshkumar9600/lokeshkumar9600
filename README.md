@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/cyberking9560/">
   <img align="left" alt="Lokesh kumar's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="">
+<a href="https://twitter.com/jaden_FL36">
   <img align="left" alt="Lokesh kumar's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
