@@ -1,5 +1,5 @@
 
-# Hello there i am lokesh 👋
+# Hello there this is lokesh 👋
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -13,6 +13,7 @@ class Developer:
     def __init__(self):
         self.name = "Lokesh kumar"
         self.role = "Developer"
+        self.stack = "MERN"
 
 
 me = Developer()
@@ -27,6 +28,7 @@ me = Developer()
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-mongodb-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
 
 
